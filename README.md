@@ -9,5 +9,6 @@ Author of this code is [Ing. Maxmilián Otta, Ph.D.](https://github.com/maxotta)
 ## Dependencies
 MotorDriver Library:
   - https://github.com/CuriosityGym/motordriver
+
 Keyhole Library (included in project):
   - https://bitbucket.org/jezhill/keyhole/src/main/
